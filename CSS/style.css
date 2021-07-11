@@ -1,27 +1,22 @@
-.cont{
+.cont-1{
     padding: 10%;
     border-color: teal 2px solid;
 }
+
 #foto{
     text-align: center;
     margin-left: 250px;
     margin-bottom: 10px;
 }
 
-.content-text{
+.margin-box{
     margin-left: 250px;
 }
-input{
+
+.input{
     width: 300px;
     border-radius: 10px;
     border: black solid;
-}
-
-.content-2{
-    height: 250px;
-    background-color: thistle;
-    border-radius: 10px;
-    margin-top: -70px;
 }
 
 .button{
@@ -34,9 +29,6 @@ border: lavenderblush;
     border-color: black solid 1px;
     background-color: rgb(187, 164, 164);
     color: red;
+  
 }
 
-#divElements{
-    background-color: rgba(168, 167, 167, 0.349);
-    border-radius: 10px ;
-}
